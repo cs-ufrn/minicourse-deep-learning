@@ -1,11 +1,11 @@
 # Minicourse Deep Learning
 
-
+ THe bias and variance tradeoff are defined and introduces de basic concepts for Deep Learning and Convolutional Neural Networks.
 This notebook has some suggestions of projects to practice.
 
 ## Experiences
 
-- Minicourse on Introduction to Computer Vision (11/05/2018)
+- Minicourse on Deep Learning for CV (18/05/2018)
 
   Presented by Vitor, Vinicius and Artur. The Minicourse on Introduction to Computer Vision
   aims to present
